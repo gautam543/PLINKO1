@@ -1,2 +1,2 @@
-# PLINKO1
-plinko part game
+# p5.play-boilerplate
+Boiler plate for p5.play
